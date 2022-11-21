@@ -144,7 +144,6 @@ a#hl_header--help-icon {
 }
 
 
-
-
-
-
+.hl_wrapper {
+    background: #F3F4F6 !important;
+}
